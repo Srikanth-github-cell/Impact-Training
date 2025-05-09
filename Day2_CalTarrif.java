@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class RoomRent {
+public class CalTarrif {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int month=sc.nextInt();
