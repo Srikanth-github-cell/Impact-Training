@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class treasure {
+public class Treasure {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int GoldCoins = sc.nextInt();
